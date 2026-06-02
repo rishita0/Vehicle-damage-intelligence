@@ -402,17 +402,6 @@ Fraud score increases when:
 
 ---
 
-## 🔮 Future Roadmap
-
-- [ ] Fine-tune MobileNetV2 on real vehicle damage dataset (Stanford Cars, CARVANA)
-- [ ] PDF report export per claim using fpdf2
-- [ ] Airflow DAG for scheduled nightly batch processing
-- [ ] Docker Compose full-stack deployment
-- [ ] Role-based access control (fleet manager vs adjuster vs finance)
-- [ ] Add Pinecone as optional cloud vector store
-- [ ] SMS/email alert for high-fraud claims via Twilio (free tier)
-- [ ] Integration with rental management systems (RentWorks, Rent Centric)
-
 ---
 
 ## 👩‍💻 Author
